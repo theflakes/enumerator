@@ -3,6 +3,9 @@
 Usage: ./enumerator.py <ip>
 Date: 7.28.14
 Made for Kali Linux, not tested on other distros.
+
+Requires:
+  pip install python-nmap
 """
 import sys
 import os
